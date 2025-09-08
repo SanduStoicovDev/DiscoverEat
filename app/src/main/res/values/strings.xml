@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DiscoverEat</string>
+    <string name="no_account">Don\'t have an Account?</string>
+    <string name="new_account"><u>Register Now</u></string>
+    <string name="error_email">Insert a valid email address</string>
+    <string name="error_password">Check the password inserted</string>
+    <string name="error_login_data_message">Check the data inserted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_retrieving_restaurants">Error in retrieving the restaurants</string>
+    <string name="fav_content_description">Add the restaurant to the favorite list</string>
+    <string name="restaurant_added_to_favorite_list_message">Restaurant added to the favorite list</string>
+    <string name="restaurant_removed_from_favorite_list_message">Restaurant removed from the favorite list</string>
+    <string name="delete">Delete</string>
+    <string name="api_key_error">API Key not valid or maximum number of requests reached</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="signIn">Sign in into your account</string>
+    <string name="error_login_user_message">There is no user record corresponding to this identifier</string>
+    <string name="error_login_password_message">The password is invalid</string>
+    <string name="google_login">Login with Google</string>
+    <string name="logo">Logo Application</string>
+    <string name="register">Register</string>
+    <string name="email">E-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="check_login_data_message">Check the data you inserted</string>
+    <string name="error_user_collision_message">The email address is already in use by another account</string>
+    <string name="error_no_google_account_found_message">No Google accounts have been found</string>
+    <string name="logout">Logout</string>
+    <string name="searchLocation">Maps</string>
+    <string name="callRestaurant">Call Now</string>
+</resources>

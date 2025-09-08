@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186703003944",
+    "firebase_url": "https://discovereat-a89c5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "discovereat-a89c5",
+    "storage_bucket": "discovereat-a89c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186703003944:android:fa60ad899786845ce7d01d",
+        "android_client_info": {
+          "package_name": "hakunamatata.discovereat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186703003944-8v278rfpggbpderm729s4o9tbip1kp3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hakunamatata.discovereat",
+            "certificate_hash": "0ef5484087e74384b16a023a956e152cfdebcc39"
+          }
+        },
+        {
+          "client_id": "186703003944-nitkpm99u5c1489qojq1n82opuuk8v0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYol7E03bvTS8jbLQHDCCmJXD-LKRm86M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186703003944-nitkpm99u5c1489qojq1n82opuuk8v0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/restaurantsFragment"
+        android:enabled="true"
+        android:icon="@drawable/restaurants_icon"
+        android:title="Restaurants"/>
+    <item
+        android:id="@+id/favoritesFragment"
+        android:enabled="true"
+        android:icon="@drawable/favorites_icon"
+        android:title="Favorites"/>
+
+    <item
+        android:id="@+id/userPageFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="User"/>
+</menu>
